@@ -10,7 +10,6 @@ starter project to practice on, and the hands-on challenge.
 
 | Folder | What it's for |
 |---|---|
-| [`PRACTICE-PLAN.md`](./PRACTICE-PLAN.md) | **Start here if you're presenting.** Day-by-day rehearsal checklist counting down to D-Day |
 | [`demo-assets/`](./demo-assets/live-demo-script.md) | Real files + exact prompts for all 3 live demos (Word, Excel, GitHub Copilot) |
 | [`prompts/`](./prompts/copilot-prompts.md) | Ready-to-use Copilot prompts for Word, Excel, PowerPoint, Outlook/Teams, and GitHub Copilot |
 | [`starter-project/`](./starter-project/) | A tiny task-tracker web app — clone it and extend it with Copilot's help |
@@ -27,7 +26,7 @@ cd ai-productivity-week1/starter-project
 Then open the folder in VS Code with GitHub Copilot enabled, or open
 [Copilot Chat](https://copilot.microsoft.com) in your browser — no install needed.
 
-## The prompting framework we used tonight
+## The prompting framework we used today
 
 > **Task** — what you want done
 > **Context** — the background it needs
