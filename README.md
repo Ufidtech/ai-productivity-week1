@@ -3,7 +3,7 @@
 **Federal University of Technology, Minna**
 Session: *AI Productivity | Microsoft Copilot*
 
-This repo has everything from tonight's session: the prompt library, a small
+This repo has everything from today's session: the prompt library, a small
 starter project to practice on, and the hands-on challenge.
 
 ## What's in here
@@ -20,7 +20,7 @@ starter project to practice on, and the hands-on challenge.
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/ai-productivity-week1.git
+git clone https://github.com/Ufidtech/ai-productivity-week1.git
 cd ai-productivity-week1/starter-project
 ```
 
@@ -46,7 +46,7 @@ Example: *"Summarize this report, for a first-year student, as 5 bullet points, 
 ## About this series
 
 Microsoft Tech Mastermind is a 4-week series run by the Microsoft Learn
-Student Ambassador program at FUT Minna, built around the tools that run
+Student Ambassadors at FUT Minna, built around the tools that run
 your workday:
 
 - Week 1 — AI Productivity (Microsoft Copilot)
@@ -54,4 +54,4 @@ your workday:
 - Week 3 — Automating the Boring Stuff (Power Platform)
 - Week 4 — 🔒 Locked
 
-Questions? Reach out to **[Your Name]**, Microsoft Learn Student Ambassador.
+Questions? Reach out to **Ibrahim Danjuma**, Microsoft Associate Student Ambassador.
