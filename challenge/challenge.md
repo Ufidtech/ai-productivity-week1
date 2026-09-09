@@ -6,7 +6,7 @@ You've got ~20 minutes. Here's the goal.
 
 1. **Clone this repo** (if you haven't already):
    ```bash
-   git clone https://github.com/<your-username>/ai-productivity-week1.git
+   git clone https://github.com/Ufidtech/ai-productivity-week1.git
    ```
 
 2. **Open `starter-project/`** in VS Code (or any editor with GitHub
@@ -19,7 +19,7 @@ You've got ~20 minutes. Here's the goal.
    - Priority tags
    - Filter view (All / Active / Completed)
 
-4. **Use Copilot to help build it.** Try at least 3 prompts using tonight's
+4. **Use Copilot to help build it.** Try at least 3 prompts using today's
    framework — **Task + Context + Format + Tone**. For example:
 
    > "Add a delete button to each task in this list, for a plain JS app,
