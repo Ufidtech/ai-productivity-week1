@@ -16,10 +16,10 @@
 ## This series
 
 - **Microsoft Tech Mastermind** — 4-week series, Federal University of
-  Technology, Minna. Registration and schedule shared via Microsoft Teams.
+  Technology, Minna. Registration and schedule shared via Microsoft form & Teams.
 
 ## Feedback
 
 Found this useful? Have ideas for what to cover in future weeks? Message
-**[Your Name]**, Microsoft Learn Student Ambassador, or drop feedback in
-the Teams channel.
+**Ibrahim Danjuma**, Microsoft Associate Student Ambassador, or drop feedback in
+the WhatsApp Community.
