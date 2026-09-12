@@ -10,7 +10,7 @@ starter project to practice on, and the hands-on challenge.
 
 | Folder | What it's for |
 |---|---|
-| [`demo-assets/`](./demo-assets) | Real files used for live demos(Word, Excel) |
+| [`demo-assets/`](./demo-assets) | Real files used during the live demos(Word, Excel) |
 | [`prompts/`](./prompts/copilot-prompts.md) | Ready-to-use Copilot prompts for Word, Excel, PowerPoint, Outlook/Teams, and GitHub Copilot |
 | [`starter-project/`](./starter-project/) | A tiny task-tracker web app — clone it and extend it with Copilot's help |
 | [`challenge/`](./challenge/challenge.md) | Tonight's hands-on challenge, step by step |
